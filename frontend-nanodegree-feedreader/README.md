@@ -4,7 +4,7 @@
 
 ### How to run:
 
-1. Clone the github directory.
+1. Clone the github directory or view on https://zoebrooking.github.io/feedreader-testing/.
 2. Open index.html.
 3. The tests will run automatically upon opening.
 4. The results of the tests will be at the bottom of the webpage.
